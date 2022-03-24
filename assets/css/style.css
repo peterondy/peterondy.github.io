@@ -83,10 +83,9 @@ button span{
 
 #About{
   height: 90vh;
-  background-color: red;
   width: 100%;
   padding-top: 3rem;
-  background-image: url('assets/img/UniverseImage.gif');
+  background-image: url('../img/UniverseImage.gif');
   background-attachment: fixed;
 
 }
@@ -126,7 +125,7 @@ button span{
   height: 225px;
   margin: 20% 0;
   margin-left: 10rem;
-  background-image: url('assets/img/WhiteLogo.png');
+  background-image: url('../img/WhiteLogo.png');
   background-color: #d8d8d9;
   background-position: center;
   background-size: 80%;
@@ -189,7 +188,7 @@ button span{
 /*------------------------------------------Projects-------------------------------------------*/
 .Back{
   width: 100%;
-  background-image: url('../public/UniverseImage.gif');
+  background-image: url('../UniverseImage.gif');
   background-attachment: fixed;
 }
 #MyProjects{
@@ -280,7 +279,7 @@ button span{
 .ContactImage{
   width: 200px;
   height: 200px;
-  background-image: url('assets/img/WhiteLogo.png');
+  background-image: url('../img/WhiteLogo.png');
   background-color: #d8d8d9;
   background-position: center;
   background-size: 80%;
